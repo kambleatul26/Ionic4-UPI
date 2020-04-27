@@ -1,5 +1,7 @@
 {
   "name": "UPI",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
